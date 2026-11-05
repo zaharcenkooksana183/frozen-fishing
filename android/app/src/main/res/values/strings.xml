@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Frozen Fishing</string>
+
+    <string name="app_title">FROZEN FISHING</string>
+    <string name="app_tagline">PLAN · FISH · LOG</string>
+    <string name="splash_loading">PREPARING THE ICE</string>
+
+    <string name="cta_start">START FISHING</string>
+    <string name="cta_again">FISH AGAIN</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_drop_line">DROP LINE</string>
+    <string name="cta_set_hook">SET HOOK</string>
+    <string name="cta_next_cast">NEXT CAST</string>
+    <string name="cta_resume">RESUME</string>
+    <string name="cta_save">SAVE</string>
+    <string name="cta_cancel">CANCEL</string>
+    <string name="cta_reset">RESET</string>
+    <string name="cta_unlock">UNLOCK</string>
+    <string name="cta_close">CLOSE</string>
+    <string name="cta_add_note">ADD SPOT NOTE</string>
+    <string name="cta_claimed">CLAIMED</string>
+    <string name="cta_claim">CLAIM REWARD</string>
+    <string name="cta_equip">EQUIP</string>
+
+    <string name="menu_subtitle">ICE FISHING LOGBOOK</string>
+    <string name="menu_hint">DRILL A HOLE AND DROP YOUR LINE</string>
+    <string name="menu_level_format">LEVEL %1$d · %2$s</string>
+    <string name="menu_xp_format">%1$d / %2$d XP</string>
+    <string name="menu_points_format">%1$d PTS</string>
+    <string name="menu_angler_empty">NO TRIPS YET — YOUR FIRST CATCH IS WAITING</string>
+    <string name="menu_tile_start">NEW TRIP</string>
+    <string name="menu_trips_format">TODAY · %1$d TRIPS</string>
+    <string name="menu_tile_daily">DAILY</string>
+    <string name="menu_tile_progress">PROGRESS</string>
+    <string name="menu_tile_collection">COLLECTION</string>
+    <string name="menu_tile_rewards">REWARDS</string>
+    <string name="menu_catches_format">%1$d CATCHES</string>
+    <string name="menu_species_format">%1$d/%2$d SPECIES</string>
+    <string name="menu_gear_locked_format">%1$d GEAR LOCKED</string>
+    <string name="menu_gear_ready">ALL GEAR OWNED</string>
+    <string name="menu_daily_progress_format">%1$d/%2$d</string>
+
+    <string name="rank_1">ICE NOVICE</string>
+    <string name="rank_2">LINE HOLDER</string>
+    <string name="rank_3">HOLE DRILLER</string>
+    <string name="rank_4">ICE SCOUT</string>
+    <string name="rank_5">ICE VETERAN</string>
+    <string name="rank_6">FROST MASTER</string>
+
+    <string name="game_cast_format">CAST %1$d / %2$d</string>
+    <string name="game_spot_format">SPOT: %1$s</string>
+    <string name="game_hint_idle">TAP DROP LINE TO BEGIN</string>
+    <string name="game_hint_sinking">THE BOB IS SINKING</string>
+    <string name="game_hint_waiting">HOLD STEADY AND WATCH THE LINE</string>
+    <string name="game_hint_bite">A BITE · SET THE HOOK</string>
+    <string name="game_hint_missed">IT SLIPPED AWAY</string>
+    <string name="game_hint_finished">TRIP COMPLETE</string>
+    <string name="game_reveal_points_format">+%1$d PTS</string>
+    <string name="game_length_cm_format">%1$d CM</string>
+    <string name="game_length_in_format">%1$d IN</string>
+    <string name="game_gear_light_rod">LIGHT ROD</string>
+    <string name="game_gear_jig">JIG</string>
+    <string name="game_gear_sonar">SONAR</string>
+
+    <string name="stat_catches">CATCHES</string>
+    <string name="stat_points">POINTS</string>
+    <string name="stat_best">BEST</string>
+    <string name="stat_trips">TRIPS</string>
+    <string name="stat_rarest">RAREST</string>
+    <string name="stat_streak">STREAK</string>
+
+    <string name="report_title">CATCH REPORT</string>
+    <string name="report_subtitle_format">%1$s · %2$d CASTS</string>
+    <string name="report_empty_title">NO BITES THIS TRIP</string>
+    <string name="report_empty_subtitle">The ice was quiet. Pick a deeper spot and drop again.</string>
+    <string name="report_new_record">NEW PERSONAL BEST</string>
+    <string name="report_new_species">SPECIES UNLOCKED</string>
+    <string name="report_note_title">SPOT NOTE</string>
+    <string name="report_points_format">+%1$d</string>
+
+    <string name="daily_title">DAILY CHALLENGE</string>
+    <string name="daily_goal_species_format">CATCH %1$d %2$s</string>
+    <string name="daily_goal_score_format">SCORE %1$d POINTS IN ONE TRIP</string>
+    <string name="daily_goal_rare_format">LAND %1$d RARE FISH</string>
+    <string name="daily_goal_total_format">LAND %1$d FISH TODAY</string>
+    <string name="daily_reward_format">REWARD +%1$d PTS</string>
+    <string name="daily_streak_title">SEVEN DAY STREAK</string>
+    <string name="daily_complete">CHALLENGE COMPLETE</string>
+    <string name="daily_tomorrow">COME BACK TOMORROW</string>
+    <string name="daily_progress_format">%1$d / %2$d</string>
+
+    <string name="progress_title">PROGRESS</string>
+    <string name="progress_next_format">NEXT: %1$s</string>
+    <string name="progress_trip_log">TRIP LOG</string>
+    <string name="progress_empty_title">NO TRIPS LOGGED YET</string>
+    <string name="progress_empty_subtitle">Every finished trip lands here with its catches and notes.</string>
+    <string name="progress_trip_format">%1$d CATCHES · %2$d PTS</string>
+    <string name="progress_none">NONE</string>
+
+    <string name="rewards_title">REWARDS</string>
+    <string name="rewards_balance_format">%1$d PTS</string>
+    <string name="rewards_owned">OWNED</string>
+    <string name="rewards_cost_format">%1$d / %2$d PTS</string>
+    <string name="rewards_hint">POINTS COME ONLY FROM FISHING</string>
+    <string name="gear_1">LIGHT ROD</string>
+    <string name="gear_2">TUNGSTEN JIG</string>
+    <string name="gear_3">SONAR UNIT</string>
+    <string name="gear_4">THERMAL TENT</string>
+    <string name="gear_1_effect">Your starting rod. Balanced hook window.</string>
+    <string name="gear_2_effect">Wider hook window on every bite.</string>
+    <string name="gear_3_effect">Better odds on rare and legendary fish.</string>
+    <string name="gear_4_effect">One extra cast on every trip.</string>
+
+    <string name="collection_title">COLLECTION</string>
+    <string name="collection_header_format">%1$d / %2$d SPECIES</string>
+    <string name="collection_undiscovered">UNDISCOVERED</string>
+    <string name="collection_caught_format">CAUGHT ×%1$d</string>
+    <string name="collection_best_length">BEST LENGTH</string>
+    <string name="collection_points_value">POINTS VALUE</string>
+    <string name="collection_first_caught">FIRST CAUGHT</string>
+    <string name="collection_locked_hint">Drop a line and this one will show up in your logbook.</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_sound">SOUND</string>
+    <string name="settings_haptics">HAPTICS</string>
+    <string name="settings_snowfall">SNOWFALL EFFECT</string>
+    <string name="settings_large_text">LARGE TEXT</string>
+    <string name="settings_units">UNITS</string>
+    <string name="settings_units_cm">CM</string>
+    <string name="settings_units_in">IN</string>
+    <string name="settings_reset">RESET PROGRESS</string>
+    <string name="settings_reset_message">This clears every trip, catch, point and unlocked gear. It cannot be undone.</string>
+    <string name="settings_about">ABOUT</string>
+    <string name="settings_about_line">OFFLINE · LOCAL SAVES · VIRTUAL PROGRESS ONLY</string>
+    <string name="settings_version_format">VERSION %1$s</string>
+    <string name="settings_version">1.0</string>
+
+    <string name="species_1">ICE PERCH</string>
+    <string name="species_2">SILVER ROACH</string>
+    <string name="species_3">FROST TROUT</string>
+    <string name="species_4">NORTHERN PIKE</string>
+    <string name="species_5">ARCTIC CHAR</string>
+
+    <string name="rarity_common">COMMON</string>
+    <string name="rarity_uncommon">UNCOMMON</string>
+    <string name="rarity_rare">RARE</string>
+    <string name="rarity_legendary">LEGENDARY</string>
+
+    <string name="spot_1">NORTH SHELF</string>
+    <string name="spot_2">PINE BAY</string>
+    <string name="spot_3">DEEP CHANNEL</string>
+    <string name="spot_4">FROZEN NARROWS</string>
+    <string name="spot_5">WILLOW POINT</string>
+    <string name="spot_1_hint">Shallow weed edge. Perch hold tight to the reeds.</string>
+    <string name="spot_2_hint">Sheltered bay, slow current, steady roach traffic.</string>
+    <string name="spot_3_hint">The deepest water on the lake. Big fish patrol here.</string>
+    <string name="spot_4_hint">Narrow gap between two islands, strong flow under the ice.</string>
+    <string name="spot_5_hint">Flooded willow stumps, perfect ambush cover for pike.</string>
+    <string name="spot_depth_format">DEPTH %1$s M</string>
+
+    <string name="note_dialog_title">SPOT NOTE</string>
+    <string name="note_hint">How did the ice treat you?</string>
+    <string name="note_chip_1">ICE WAS SOLID</string>
+    <string name="note_chip_2">WIND FROM THE NORTH</string>
+    <string name="note_chip_3">BITES CAME AT DUSK</string>
+    <string name="note_chip_4">TRY DEEPER NEXT TIME</string>
+
+    <string name="pause_title">TRIP PAUSED</string>
+    <string name="pause_message">The hole stays open. Pick the line back up whenever you are ready.</string>
+
+    <string name="cd_logo">Frozen Fishing emblem</string>
+    <string name="cd_home">Back to menu</string>
+    <string name="cd_pause">Pause the trip</string>
+    <string name="state_bite_open">Bite window open</string>
+    <string name="state_bite_closed">Waiting for a bite</string>
+    <string name="state_on">On</string>
+    <string name="state_off">Off</string>
+    <string name="state_equipped">Equipped</string>
+    <string name="state_locked">Locked</string>
+</resources>
